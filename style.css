@@ -10,6 +10,11 @@ body,html {
     background:rgb(0, 0, 0);
     scroll-behavior: smooth;
 }
+
+.flex-b{
+	display: flex;
+    	justify-content: space-between;
+}
 #loading {
     width: 100vw;
     height: 100vh;
